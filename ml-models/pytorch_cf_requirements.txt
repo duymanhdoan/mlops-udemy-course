@@ -1,0 +1,5 @@
+google-cloud-storage==1.16.1
+scikit-learn==0.22.2
+requests==2.24.0
+numpy==1.19.2
+https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl 
